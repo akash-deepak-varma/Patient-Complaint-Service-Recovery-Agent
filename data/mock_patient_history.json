@@ -1,0 +1,54 @@
+{
+  "patients": [
+    {
+      "patient_name": "John Smith",
+      "appointment_ids": [
+        "APT-1001",
+        "APT-1002"
+      ],
+      "prior_cases": [
+        "2024-01-15: Billing dispute — overcharged for outpatient visit. Resolved after refund issued.",
+        "2024-03-22: Scheduling complaint — appointment cancelled without notice. Resolved with rescheduling."
+      ]
+    },
+    {
+      "patient_name": "Emily Johnson",
+      "appointment_ids": [
+        "APT-2050"
+      ],
+      "prior_cases": [
+        "2023-11-05: Staff behaviour complaint — felt dismissed by nursing staff during consultation. Escalated to department head.",
+        "2024-02-10: Facility complaint — waiting area was unclean. Resolved after facilities team was notified.",
+        "2024-06-01: Clinical quality concern — incorrect medication prescribed. Escalated to clinical governance.",
+        "2026-10-07: [STAFF_BEHAVIOUR] The patient reports a dismissive nurse who interrupted, belittled, and refused access to a doctor, leaving her humiliated and without resolution. (Escalation: LOW, Status: IN_PROGRESS, Ref: 09abcc8c)",
+        "2026-10-07: [STAFF_BEHAVIOUR] The patient reports a dismissive nurse who interrupted, belittled, and refused access to a doctor, leaving her humiliated and without resolution. (Escalation: LOW, Status: IN_PROGRESS, Ref: 8d1085e4)",
+        "2026-10-07: [STAFF_BEHAVIOUR] Patient reports a dismissive nurse interrupted, belittled, and refused access to a doctor, leaving her humiliated and her pain unresolved. (Escalation: HIGH, Status: IN_PROGRESS, Ref: 56235969)"
+      ]
+    },
+    {
+      "patient_name": "Michael Brown",
+      "appointment_ids": [
+        "APT-3300"
+      ],
+      "prior_cases": [
+        "2024-04-18: Scheduling complaint — waited over 2 hours beyond appointment time. Resolved with apology letter.",
+        "2026-10-07: [SCHEDULING] The patient received no advance notice of a repeated appointment cancellation and requests an apology and priority rescheduling without penalty. (Escalation: LOW, Status: IN_PROGRESS, Ref: e847e08d)",
+        "2026-10-07: [SCHEDULING] The patient received no advance notice of a repeated appointment cancellation and requests an apology and priority rescheduling without penalty. (Escalation: LOW, Status: IN_PROGRESS, Ref: eeb4ba16)"
+      ]
+    },
+    {
+      "patient_name": "Sarah Davis",
+      "appointment_ids": [],
+      "prior_cases": [
+        "2026-10-07: [FACILITY] The Dermatology waiting area had overflowing bins, a broken sanitiser dispenser, and an unmarked wet floor, creating safety and infection-control risks. (Escalation: LOW, Status: IN_PROGRESS, Ref: ffe197a5)"
+      ]
+    },
+    {
+      "patient_name": "Dhanush",
+      "appointment_ids": [],
+      "prior_cases": [
+        "2026-10-07: [SCHEDULING] The patient experienced an unexplained two-hour wait after arriving late for a neurology appointment, causing frustration. (Escalation: NONE, Status: IN_PROGRESS, Ref: bf47fcee)"
+      ]
+    }
+  ]
+}
